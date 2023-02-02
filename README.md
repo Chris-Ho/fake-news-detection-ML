@@ -11,3 +11,7 @@ Approach was as follows:
   4. Choose an approach to take and train with different machine learning algorithms
   5. Optimise hyperparameters
   6. See results
+
+To run code yourself download the data files and run the code in the Jupyter Notebook.
+
+Alternatively, to just view the code, click on the Notebook.
